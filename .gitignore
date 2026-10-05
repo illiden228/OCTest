@@ -71,6 +71,8 @@ sysinfo.txt
 mono_crash.*
 
 # Builds
+/tmp/
+/ProjectSettings/SceneTemplateSettings.json
 *.apk
 *.aab
 *.unitypackage
